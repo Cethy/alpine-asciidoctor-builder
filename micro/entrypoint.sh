@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "[command] asciidoctor $INPUT_DIR/$INPUT_FILE -D $OUTPUT_DIR $INPUT_EXTRA_PARAMETERS"
+asciidoctor $INPUT_DIR/$INPUT_FILE -D $OUTPUT_DIR $INPUT_EXTRA_PARAMETERS
