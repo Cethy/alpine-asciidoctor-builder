@@ -1,4 +1,4 @@
-FROM rochdev/alpine-asciidoctor:full
+FROM rochdev/alpine-asciidoctor:latest
 
 ENV OUTPUT_DIR '/output'
 ENV INPUT_FILE 'index.asc'
