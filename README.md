@@ -161,6 +161,6 @@ This variant is a trimmed down version containing only the necessary to build ba
 [rochdev/docker-alpine-asciidoctor](https://github.com/rochdev/docker-alpine-asciidoctor)
 
 ### Related work
-- asciidoctor Watcher docker image [cethy/alpine-asciidoctor-watcher](https://github.com/Cethy/alpine-asciidoctor-watcher)
+- Asciidoctor Watcher docker image [cethy/alpine-asciidoctor-watcher](https://github.com/Cethy/alpine-asciidoctor-watcher)
  ([on docker hub](https://hub.docker.com/r/cethy/alpine-asciidoctor-watcher/))
-- WIP asciidoctor livereload environment [cethy/asciidoctor-livereload]()
+- Asciidoctor livereload environment [cethy/asciidoctor-livereload](https://github.com/Cethy/asciidoctor-livereload)
