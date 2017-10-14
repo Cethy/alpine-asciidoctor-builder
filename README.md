@@ -29,7 +29,7 @@ Example usage with a local directory :
 		cethy/alpine-asciidoctor-builder:micro
 
 ### Format configuration
-To output other format than html, just overides the `OUTPUT_FORMATS` variable :
+To output other format than html, just override the `OUTPUT_FORMATS` variable :
 
     docker run -it \
         -v <host source directory>:/documents/ \
@@ -161,6 +161,6 @@ This variant is a trimmed down version containing only the necessary to build ba
 [rochdev/docker-alpine-asciidoctor](https://github.com/rochdev/docker-alpine-asciidoctor)
 
 ### Related work
-- WIP asciidoctor watcher docker image [cethy/alpine-asciidoctor-watcher]() 
+- asciidoctor Watcher docker image [cethy/alpine-asciidoctor-watcher](https://github.com/Cethy/alpine-asciidoctor-watcher)
+ ([on docker hub](https://hub.docker.com/r/cethy/alpine-asciidoctor-watcher/))
 - WIP asciidoctor livereload environment [cethy/asciidoctor-livereload]()
-
